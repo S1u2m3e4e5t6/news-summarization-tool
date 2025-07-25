@@ -1,5 +1,10 @@
 # news-summarization-tool
 AI-powered news summarization using LangChain and OpenAI
+
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/a8e3136f-353c-43b9-b056-261b3ac091e6" />
+
+
+
 # 📰 News Summarization Tool
 
 An AI-powered system that extracts and summarizes online news articles using OpenAI LLMs and LangChain, providing concise and accurate information from raw URLs.
